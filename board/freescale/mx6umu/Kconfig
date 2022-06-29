@@ -1,0 +1,12 @@
+if TARGET_MX6UMU
+
+config SYS_BOARD
+	default "mx6umu"
+
+config SYS_VENDOR
+	default "freescale"
+
+config SYS_CONFIG_NAME
+	default "mx6umu"
+
+endif
